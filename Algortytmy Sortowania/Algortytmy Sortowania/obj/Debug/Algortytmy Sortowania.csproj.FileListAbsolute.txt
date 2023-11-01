@@ -1,0 +1,11 @@
+C:\Users\ZAKOWSKI\source\repos\Algortytmy Sortowania\Algortytmy Sortowania\bin\Debug\Algortytmy Sortowania.exe.config
+C:\Users\ZAKOWSKI\source\repos\Algortytmy Sortowania\Algortytmy Sortowania\bin\Debug\Algortytmy Sortowania.exe
+C:\Users\ZAKOWSKI\source\repos\Algortytmy Sortowania\Algortytmy Sortowania\bin\Debug\Algortytmy Sortowania.pdb
+C:\Users\ZAKOWSKI\source\repos\Algortytmy Sortowania\Algortytmy Sortowania\obj\Debug\Algortytmy Sortowania.csproj.AssemblyReference.cache
+C:\Users\ZAKOWSKI\source\repos\Algortytmy Sortowania\Algortytmy Sortowania\obj\Debug\Algortytmy Sortowania.csproj.SuggestedBindingRedirects.cache
+C:\Users\ZAKOWSKI\source\repos\Algortytmy Sortowania\Algortytmy Sortowania\obj\Debug\Algortytmy_Sortowania.Form1.resources
+C:\Users\ZAKOWSKI\source\repos\Algortytmy Sortowania\Algortytmy Sortowania\obj\Debug\Algortytmy_Sortowania.Properties.Resources.resources
+C:\Users\ZAKOWSKI\source\repos\Algortytmy Sortowania\Algortytmy Sortowania\obj\Debug\Algortytmy Sortowania.csproj.GenerateResource.cache
+C:\Users\ZAKOWSKI\source\repos\Algortytmy Sortowania\Algortytmy Sortowania\obj\Debug\Algortytmy Sortowania.csproj.CoreCompileInputs.cache
+C:\Users\ZAKOWSKI\source\repos\Algortytmy Sortowania\Algortytmy Sortowania\obj\Debug\Algortytmy Sortowania.exe
+C:\Users\ZAKOWSKI\source\repos\Algortytmy Sortowania\Algortytmy Sortowania\obj\Debug\Algortytmy Sortowania.pdb
